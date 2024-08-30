@@ -1,4 +1,17 @@
 img{
-    width: 10%;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+form{
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 
 }
